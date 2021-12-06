@@ -1,5 +1,5 @@
 # Smart-Parking-System
 
-- Portal for online booking of the parking Slots implemented using the MERN stack and Google APIs.
-- Includes parking facility for the electric vehicles too .
-- Optimized Algorithm for the best user experience .
+- Portal for online booking of the parking slots.
+- Includes charging facility for the electric vehicles too.
+- Land owners can give their lands to create new parking area.
